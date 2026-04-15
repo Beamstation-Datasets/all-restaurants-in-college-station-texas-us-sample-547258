@@ -1,0 +1,12 @@
+{
+  "export_job_id": "eaa0081b-bdce-43f9-b718-bba0ec6818ab",
+  "id_short": 547258,
+  "published_at": "2026-04-15T19:02:28Z",
+  "repo_name": "all-restaurants-in-college-station-texas-us-sample-547258",
+  "sample_asset_name": "beamstation_547258_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/547258/beamstation_547258_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_records": 33,
+  "sample_sha256": "5b1a9c6a87239bd5166758ed05ce1c434c0574b3d72c1c38e9dd4152fb7db92a",
+  "sample_size_bytes": 145024,
+  "total_records": 339
+}
