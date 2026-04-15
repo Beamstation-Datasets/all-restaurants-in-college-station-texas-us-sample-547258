@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All verified restaurant listings in College Station, Texas with a population of over 120k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in College Station, Texas, US",
+  "export_job_id": "eaa0081b-bdce-43f9-b718-bba0ec6818ab",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 547258,
+  "location_name": "College Station",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-college-station-texas-us-sample-547258",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/547258/beamstation_547258_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 9.73,
+  "sample_records": 33,
+  "sample_sha256": "5b1a9c6a87239bd5166758ed05ce1c434c0574b3d72c1c38e9dd4152fb7db92a",
+  "sample_size_bytes": 145024,
+  "total_records": 339,
+  "updated_at": "2026-04-09T11:02:36.250944+00:00"
+}
