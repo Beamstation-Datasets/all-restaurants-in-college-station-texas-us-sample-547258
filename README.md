@@ -1,6 +1,6 @@
 # All Restaurants in College Station, Texas, US
 
-> Free BeamStation sample export with 28 rows and masked direct-contact fields.
+> Free BeamStation sample export with 35 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `547258` |
 | Location | College Station |
 | Category | Restaurants |
-| Full dataset size | 283 records |
-| Free sample size | 28 records (9.89%) |
-| Last export | 2026-04-23T10:37:01.921512+00:00 |
+| Full dataset size | 353 records |
+| Free sample size | 35 records (9.92%) |
+| Last export | 2026-04-30T10:44:03.304601+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-college-station-texas-us-sample-547258/releases/download/sample-latest/beamstation_547258_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
